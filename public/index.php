@@ -1,5 +1,5 @@
 <?php
 
-print "hi laravel";
+phpinfo();
 
 ?>
