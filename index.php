@@ -1,5 +1,5 @@
 <?php
 
-phpinfo();
+print "test 123";
 
 ?>
